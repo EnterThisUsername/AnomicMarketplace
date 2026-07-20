@@ -1,9 +1,0 @@
-{
-  "id": "reload-fast",
-  "name": "Fast Reload",
-  "preview": "https://placehold.co/600x400/1e1e1e/0080ff?text=Fast+Reload",
-  "fps": 10,
-  "bulkId": "1122334455,6677889900",
-  "category": "Action",
-  "description": "Speedy reload animation for competitive play."
-}
