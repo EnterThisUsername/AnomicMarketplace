@@ -14,10 +14,10 @@ export const CONFIG = {
     storageKey: 'amp-values-layout'
   },
   endpoints: {
-    valuesManifest: '/data/values/manifest.json',
-    valuesPath: '/data/values/',
-    vhsManifest: '/data/vhs/manifest.json',
-    vhsPath: '/data/vhs/'
+    valuesManifest: './data/values/manifest.json',
+    valuesPath: './data/values/',
+    vhsManifest: './data/vhs/manifest.json',
+    vhsPath: './data/vhs/'
   },
   placeholders: {
     image: 'https://placehold.co/600x400/1e1e1e/808080?text=Image+Not+Found'
