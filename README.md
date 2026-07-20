@@ -45,48 +45,44 @@ text
  
  
 /
-├── index.html              # Homepage with statistics and quick links
-├── values.html             # Marketplace values database
-├── vhs.html                # VHS Bulk ID database
-├── discords.html           # Official Discord server directory
-│
-├── css/                    # Modular stylesheets
-│   ├── styles.css          # Master import file
-│   ├── variables.css       # Design tokens (colors, spacing, typography)
-│   ├── layout.css          # Grid, flex, and container utilities
-│   ├── navigation.css      # Navbar and mobile menu
-│   ├── cards.css           # Item, VHS, and Discord card styles
-│   ├── buttons.css         # Button variants
-│   ├── forms.css           # Inputs, selects, search bars
-│   ├── animations.css      # Keyframes and transitions
-│   ├── responsive.css      # Media queries for mobile/tablet
-│   ├── utilities.css       # Helper classes
-│   └── themes.css          # Light/dark theme overrides
-│
-├── js/                     # Modular ES Modules
-│   ├── app.js              # Main entry point, initializes page scripts
-│   ├── config.js           # Centralized configuration & Discord links
-│   ├── constants.js        # Sorting options, demand rankings
-│   ├── loader.js           # Fetches JSON, validates data, handles errors
-│   ├── values.js           # Logic for the marketplace page
-│   ├── vhs.js              # Logic for the VHS page
-│   ├── discords.js         # Logic for the Discord page
-│   ├── search.js           # Debounced instant search
-│   ├── filtering.js        # Multi-criteria data filtering
-│   ├── sorting.js          # Stable data sorting
-│   ├── clipboard.js        # Modern clipboard API with fallback
-│   ├── theme.js            # Theme toggle and persistence
-│   ├── navigation.js       # Mobile menu and navbar scroll effects
-│   ├── keyboard.js         # Global keyboard shortcuts
-│   ├── toast.js            # Toast notification system
-│   ├── scroll.js           # Back-to-top button logic
-│   └── utils.js            # Helper functions (debounce, formatNumber, etc.)
-│
-├── data/                   # Decoupled JSON Data
-│   ├── values/             # Marketplace items & manifest.json
-│   └── vhs/                # VHS animations & manifest.json
-│
-└── README.md               # You are here
+index.html              # Homepage with statistics and quick links
+values.html             # Marketplace values database
+vhs.html                # VHS Bulk ID database
+discords.html           # Official Discord server directory
+css/                    # Modular stylesheets
+styles.css          # Master import file
+variables.css       # Design tokens (colors, spacing, typography)
+layout.css          # Grid, flex, and container utilities
+navigation.css      # Navbar and mobile menu
+cards.css           # Item, VHS, and Discord card styles
+buttons.css         # Button variants
+forms.css           # Inputs, selects, search bars
+animations.css      # Keyframes and transitions
+responsive.css      # Media queries for mobile/tablet
+utilities.css       # Helper classes
+themes.css          # Light/dark theme overrides
+js/                     # Modular ES Modules
+app.js              # Main entry point, initializes page scripts
+config.js           # Centralized configuration & Discord links
+constants.js        # Sorting options, demand rankings
+loader.js           # Fetches JSON, validates data, handles errors
+values.js           # Logic for the marketplace page
+vhs.js              # Logic for the VHS page
+discords.js         # Logic for the Discord page
+search.js           # Debounced instant search
+filtering.js        # Multi-criteria data filtering
+sorting.js          # Stable data sorting
+clipboard.js        # Modern clipboard API with fallback
+theme.js            # Theme toggle and persistence
+navigation.js       # Mobile menu and navbar scroll effects
+keyboard.js         # Global keyboard shortcuts
+toast.js            # Toast notification system
+scroll.js           # Back-to-top button logic
+utils.js            # Helper functions (debounce, formatNumber, etc.)
+js/data/                   # Decoupled JSON Data
+js/data/values/             # Marketplace items & manifest.json
+ja/data/values/vhs/                # VHS animations & manifest.json
+README.md               # You are here
  
  
 Hosting & Deployment
