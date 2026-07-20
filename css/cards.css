@@ -201,7 +201,9 @@
   font-family: var(--font-mono);
   font-size: var(--fs-sm);
   color: var(--text-primary);
-  word-break: break-all;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 /* Discord Cards */

@@ -32,5 +32,6 @@ export function sortData(data, sortOption) {
       return sorted.sort((a, b) => a.rarity.localeCompare(b.rarity));
     default:
       return sorted;
-  }
+ 
+    }
 }
