@@ -37,54 +37,7 @@ Tech Stack
      Vanilla JavaScript (ES Modules): Modular, maintainable, dependency-free logic.
      Lucide Icons: Lightweight, customizable SVG icons.
      JSON: Decoupled data layer for marketplace items and VHS animations.
-
-Project Structure
-text
- 
-  
- 
- 
-/
-index.html     # Homepage
-values.html     # Marketplace values
-vhs.html     # VHS Bulk ID
-discords.html     # Official Discord server directory
-css/     # Modular stylesheets
-styles.css     # Master import file
-variables.css     # Design tokens
-layout.css     # Grid, flex, and container utilities
-navigation.css     # Navbar
-cards.css     # Card styles
-buttons.css     # Buttons
-forms.css     # Inputs, selects, search bars
-animations.css     # Keyframes & transitions
-responsive.css     # Media queries
-utilities.css     # Helper classes
-themes.css     # Light/dark theme
-js/     # Modular ES Modules
-app.js     # Main entry point
-config.js     # Centralized configuration
-constants.js     # Sorting options
-loader.js     # Fetches JSON
-values.js     # Logic for the marketplace page
-vhs.js     # Logic for the VHS page
-discords.js     # Logic for the Discord page
-search.js     # Debounced instant search
-filtering.js     # Multi-criteria data filtering
-sorting.js     # Stable data sorting
-clipboard.js     # Modern clipboard API with fallback
-theme.js     # Theme toggle
-navigation.js     # Mobile menu
-keyboard.js     # Keyboard shortcuts
-toast.js     # Toast notification system
-scroll.js     # Back-to-top button
-utils.js     # Helper functions (debounce, formatNumber, etc.)
-js/data/     # Decoupled JSON Data
-js/data/values/     # Marketplace items & manifest.json
-ja/data/values/vhs/     # VHS animations & manifest.json
-README.md     # You're here
- 
- 
+     
 Hosting & Deployment
 
 Because this is a pure static website, no compilation is required. 
