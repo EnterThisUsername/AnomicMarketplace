@@ -1,0 +1,13 @@
+{
+  "id": "og-kalashnikov",
+  "name": "OG Kalashnikov",
+  "image": "https://placehold.co/600x400/1e1e1e/ff4500?text=OG+Kalashnikov",
+  "value": 610000,
+  "demand": "Moderate",
+  "prediction": "Stable",
+  "event": "April Fools 2025",
+  "category": "Item",
+  "rarity": "Rare",
+  "description": "A classic joke weapon from April Fools 2025.",
+  "lastUpdated": "???"
+}

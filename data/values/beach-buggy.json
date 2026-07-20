@@ -1,0 +1,13 @@
+{
+  "id": "beach-buggy",
+  "name": "Beach Buggy",
+  "image": "https://placehold.co/600x400/1e1e1e/0080ff?text=Beach+Buggy",
+  "value": 82500,
+  "demand": "Low",
+  "prediction": "Stable",
+  "event": "Summer 2024",
+  "category": "Car",
+  "rarity": "Common",
+  "description": "Cruise the sands in this summer buggy.",
+  "lastUpdated": "???"
+}

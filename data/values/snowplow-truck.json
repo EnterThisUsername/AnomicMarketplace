@@ -1,0 +1,13 @@
+{
+  "id": "snowplow-truck",
+  "name": "Snowplow Truck",
+  "image": "https://placehold.co/600x400/1e1e1e/0080ff?text=Snowplow+Truck",
+  "value": 250000,
+  "demand": "Low",
+  "prediction": "Stable",
+  "event": "Christmas/Winter 2023",
+  "category": "Car",
+  "rarity": "Uncommon",
+  "description": "An older model snowplow for winter weather.",
+  "lastUpdated": "???"
+}

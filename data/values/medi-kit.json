@@ -1,0 +1,13 @@
+{
+  "id": "medi-kit",
+  "name": "Medi-Kit",
+  "image": "https://placehold.co/600x400/1e1e1e/ff4500?text=Medi-Kit",
+  "value": 3350000,
+  "demand": "Low",
+  "prediction": "Stable",
+  "event": "Off-Sale Items",
+  "category": "Item",
+  "rarity": "Legendary",
+  "description": "A rare off-sale healing item.",
+  "lastUpdated": "???"
+}

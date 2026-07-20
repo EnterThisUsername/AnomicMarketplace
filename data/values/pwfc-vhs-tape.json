@@ -1,0 +1,13 @@
+{
+  "id": "pwfc-vhs-tape",
+  "name": "PWFC VHS Tape",
+  "image": "https://placehold.co/600x400/1e1e1e/ff4500?text=PWFC+VHS",
+  "value": 3250000,
+  "demand": "Low",
+  "prediction": "Stable",
+  "event": "New Year 2024",
+  "category": "Item",
+  "rarity": "Legendary",
+  "description": "A rare commemorative tape from New Year 2024.",
+  "lastUpdated": "???"
+}

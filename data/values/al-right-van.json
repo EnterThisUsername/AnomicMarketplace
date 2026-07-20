@@ -1,0 +1,13 @@
+{
+  "id": "al-right-van",
+  "name": "AL-Right Van",
+  "image": "https://placehold.co/600x400/1e1e1e/0080ff?text=AL-Right+Van",
+  "value": 200000,
+  "demand": "Low",
+  "prediction": "Stable",
+  "event": "Christmas/Winter 2023",
+  "category": "Car",
+  "rarity": "Uncommon",
+  "description": "A reliable winter van from 2023.",
+  "lastUpdated": "???"
+}

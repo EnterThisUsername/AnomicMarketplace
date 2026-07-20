@@ -1,0 +1,13 @@
+{
+  "id": "sydney-sleeper",
+  "name": "Sydney Sleeper",
+  "image": "https://placehold.co/600x400/1e1e1e/0080ff?text=Sydney+Sleeper",
+  "value": 75000,
+  "demand": "Low",
+  "prediction": "Stable",
+  "event": "Summer 2024",
+  "category": "Car",
+  "rarity": "Common",
+  "description": "A laid-back vehicle for those hot summer days.",
+  "lastUpdated": "???"
+}

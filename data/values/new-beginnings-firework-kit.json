@@ -1,0 +1,13 @@
+{
+  "id": "new-beginnings-firework-kit",
+  "name": "New Beginnings Firework Kit",
+  "image": "https://placehold.co/600x400/1e1e1e/ff4500?text=New+Beginnings+Firework",
+  "value": 875000,
+  "demand": "Low",
+  "prediction": "Stable",
+  "event": "New Year 2024",
+  "category": "Item",
+  "rarity": "Rare",
+  "description": "Celebrate new beginnings with this explosive kit.",
+  "lastUpdated": "???"
+}

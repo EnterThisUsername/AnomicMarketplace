@@ -1,0 +1,13 @@
+{
+  "id": "wooden-sled",
+  "name": "Wooden Sled",
+  "image": "https://placehold.co/600x400/1e1e1e/0080ff?text=Wooden+Sled",
+  "value": 37500,
+  "demand": "Low",
+  "prediction": "Decline",
+  "event": "Christmas/Winter 2024",
+  "category": "Item",
+  "rarity": "Common",
+  "description": "A classic wooden sled, slowly declining in value.",
+  "lastUpdated": "???"
+}

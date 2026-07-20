@@ -1,0 +1,13 @@
+{
+  "id": "winter-wagon",
+  "name": "Winter Wagon",
+  "image": "https://placehold.co/600x400/1e1e1e/ffffff?text=Winter+Wagon",
+  "value": 1650000,
+  "demand": "Moderate",
+  "prediction": "Stable",
+  "event": "Christmas/Winter 2022",
+  "category": "Car",
+  "rarity": "Very Rare",
+  "description": "A sturdy wagon for winter travels.",
+  "lastUpdated": "???"
+}

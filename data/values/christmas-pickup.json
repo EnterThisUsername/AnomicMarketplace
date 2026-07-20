@@ -1,0 +1,13 @@
+{
+  "id": "christmas-pickup",
+  "name": "Christmas Pickup",
+  "image": "https://placehold.co/600x400/1e1e1e/ff4500?text=Christmas+Pickup",
+  "value": 50000,
+  "demand": "Low",
+  "prediction": "Stable",
+  "event": "Winter 2025",
+  "category": "Car",
+  "rarity": "Common",
+  "description": "A festive pickup truck from the Winter 2025 event.",
+  "lastUpdated": "???"
+}

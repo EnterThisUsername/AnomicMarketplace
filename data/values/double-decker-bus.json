@@ -1,0 +1,13 @@
+{
+  "id": "double-decker-bus",
+  "name": "Double Decker Bus",
+  "image": "https://placehold.co/600x400/1e1e1e/ff4500?text=Double+Decker+Bus",
+  "value": 950000,
+  "demand": "High",
+  "prediction": "Stable",
+  "event": "April Fools 2024",
+  "category": "Car",
+  "rarity": "Very Rare",
+  "description": "A massive joke vehicle that holds a crowd.",
+  "lastUpdated": "???"
+}

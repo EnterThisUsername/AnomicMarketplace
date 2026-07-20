@@ -1,0 +1,9 @@
+{
+  "id": "dance-loop",
+  "name": "Dance Loop",
+  "preview": "https://placehold.co/600x400/1e1e1e/ff4500?text=Dance+Loop",
+  "fps": 10,
+  "bulkId": "1234567890,987654321",
+  "category": "Dance",
+  "description": "Looping dance animation for character customization."
+}

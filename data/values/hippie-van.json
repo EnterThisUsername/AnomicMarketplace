@@ -1,0 +1,13 @@
+{
+  "id": "hippie-van",
+  "name": "Hippie Van",
+  "image": "https://placehold.co/600x400/1e1e1e/ff69b4?text=Hippie+Van",
+  "value": 2625000,
+  "demand": "Moderate",
+  "prediction": "Stable",
+  "event": "Valentine's Day 2023",
+  "category": "Car",
+  "rarity": "Legendary",
+  "description": "A peace-loving van from Valentine's Day 2023.",
+  "lastUpdated": "???"
+}

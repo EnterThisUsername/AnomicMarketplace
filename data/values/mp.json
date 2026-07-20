@@ -1,0 +1,13 @@
+{
+  "id": "mp",
+  "name": "MP",
+  "image": "https://placehold.co/600x400/1e1e1e/ff4500?text=MP",
+  "value": 1250000,
+  "demand": "Moderate",
+  "prediction": "Unstable",
+  "event": "Off-Sale Items",
+  "category": "Item",
+  "rarity": "Very Rare",
+  "description": "A highly unstable, classic off-sale item.",
+  "lastUpdated": "2026-07-18"
+}

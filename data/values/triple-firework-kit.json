@@ -1,0 +1,13 @@
+{
+  "id": "triple-firework-kit",
+  "name": "Triple Firework Kit",
+  "image": "https://placehold.co/600x400/1e1e1e/0080ff?text=Triple+Firework",
+  "value": 115000,
+  "demand": "Low",
+  "prediction": "Stable",
+  "event": "New Year 2025",
+  "category": "Item",
+  "rarity": "Uncommon",
+  "description": "A triple burst of celebration for New Year 2025.",
+  "lastUpdated": "???"
+}

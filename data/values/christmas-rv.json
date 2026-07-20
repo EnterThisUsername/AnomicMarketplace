@@ -1,0 +1,13 @@
+{
+  "id": "christmas-rv",
+  "name": "Christmas RV",
+  "image": "https://placehold.co/600x400/1e1e1e/0080ff?text=Christmas+RV",
+  "value": 55000,
+  "demand": "Low",
+  "prediction": "Stable",
+  "event": "Christmas/Winter 2024",
+  "category": "Car",
+  "rarity": "Common",
+  "description": "A festive mobile home for the holidays.",
+  "lastUpdated": "???"
+}

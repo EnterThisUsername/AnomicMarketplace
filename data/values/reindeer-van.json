@@ -1,0 +1,13 @@
+{
+  "id": "reindeer-van",
+  "name": "Reindeer Van",
+  "image": "https://placehold.co/600x400/1e1e1e/ffffff?text=Reindeer+Van",
+  "value": 1650000,
+  "demand": "Moderate",
+  "prediction": "Stable",
+  "event": "Christmas/Winter 2022",
+  "category": "Car",
+  "rarity": "Very Rare",
+  "description": "A festive van pulled straight from 2022.",
+  "lastUpdated": "???"
+}

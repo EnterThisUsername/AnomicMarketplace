@@ -1,0 +1,13 @@
+{
+  "id": "cute-coupe",
+  "name": "Cute Coupe",
+  "image": "https://placehold.co/600x400/1e1e1e/ff69b4?text=Cute+Coupe",
+  "value": 1350000,
+  "demand": "Low",
+  "prediction": "Stable",
+  "event": "Valentine's Day 2023",
+  "category": "Car",
+  "rarity": "Very Rare",
+  "description": "An adorable vehicle for Valentine's Day.",
+  "lastUpdated": "???"
+}

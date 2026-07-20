@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AMP | VHS Bulk IDs</title>
+  <meta name="description" content="Browse and copy Anomic VHS animation Bulk IDs instantly.">
+  
+  <meta property="og:title" content="Anomic VHS Bulk IDs">
+  <meta property="og:description" content="Browse and copy Anomic VHS animation Bulk IDs instantly.">
+  <meta property="og:type" content="website">
+  
+  <link rel="canonical" href="/vhs.html">
+  <link rel="stylesheet" href="/css/styles.css">
+  <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js" defer></script>
+  <script src="https://cdn.tailwindcss.com" defer></script>
+</head>
+<body data-page="vhs">
+  <header class="navbar" id="main-nav">
+    <div class="container nav-container">
+      <a href="/" class="nav-logo">Anomic<span>Marketplace</span></a>
+      <nav class="nav-links" aria-label="Main navigation">
+        <a href="/" class="nav-link">Home</a>
+        <a href="/values.html" class="nav-link">Marketplace Values</a>
+        <a href="/vhs.html" class="nav-link active">VHS Bulk IDs</a>
+        <a href="/discords.html" class="nav-link">Official Discords</a>
+      </nav>
+      <div class="nav-actions">
+        <button id="theme-toggle" class="btn btn-secondary btn-icon" aria-label="Toggle theme"></button>
+        <button id="mobile-menu-toggle" class="btn btn-secondary btn-icon" aria-label="Open menu" aria-expanded="false">
+          <i data-lucide="menu"></i>
+        </button>
+      </div>
+    </div>
+    <nav class="mobile-nav" id="mobile-nav" aria-label="Mobile navigation">
+      <a href="/" class="nav-link">Home</a>
+      <a href="/values.html" class="nav-link">Marketplace Values</a>
+      <a href="/vhs.html" class="nav-link active">VHS Bulk IDs</a>
+      <a href="/discords.html" class="nav-link">Official Discords</a>
+    </nav>
+  </header>
+
+  <main class="main-content">
+    <div class="container">
+      <div class="mb-8">
+        <h1>VHS Bulk IDs</h1>
+        <p class="text-muted">Find animations and copy their Bulk IDs instantly.</p>
+      </div>
+
+      <div class="flex gap-4 mb-8" style="flex-wrap: wrap;">
+        <div class="search-input-wrapper" style="flex: 1; min-width: 250px;">
+          <i data-lucide="search" class="search-icon"></i>
+          <input type="search" id="vhs-search" class="form-input search-input" placeholder="Search animations..." aria-label="Search VHS">
+        </div>
+        <select id="vhs-fps-filter" class="form-select" style="width: auto;">
+          <option value="">All FPS</option>
+          <option value="1">1 FPS</option>
+          <option value="2">2 FPS</option>
+          <option value="3">3 FPS</option>
+          <option value="4">4 FPS</option>
+          <option value="5">5 FPS</option>
+          <option value="6">6 FPS</option>
+          <option value="7">7 FPS</option>
+          <option value="8">8 FPS</option>
+          <option value="9">9 FPS</option>
+          <option value="10">10 FPS</option>
+        </select>
+        <select id="vhs-sort" class="form-select" style="width: auto;">
+          <option value="name-asc">Name A-Z</option>
+          <option value="name-desc">Name Z-A</option>
+          <option value="fps-asc">FPS Ascending</option>
+          <option value="fps-desc">FPS Descending</option>
+        </select>
+      </div>
+
+      <div id="vhs-grid" class="grid grid-auto-fill"></div>
+    </div>
+  </main>
+
+  <button class="back-to-top" id="back-to-top" aria-hidden="true">
+    <i data-lucide="arrow-up"></i>
+  </button>
+
+  <script type="module" src="/js/app.js"></script>
+</body>
+</html>

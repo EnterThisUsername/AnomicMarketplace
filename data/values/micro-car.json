@@ -1,0 +1,13 @@
+{
+  "id": "micro-car",
+  "name": "Micro Car",
+  "image": "https://placehold.co/600x400/1e1e1e/ff4500?text=Micro+Car",
+  "value": 370000,
+  "demand": "Moderate",
+  "prediction": "Stable",
+  "event": "April Fools 2024",
+  "category": "Car",
+  "rarity": "Uncommon",
+  "description": "Tiny but mighty, a classic prank car.",
+  "lastUpdated": "???"
+}

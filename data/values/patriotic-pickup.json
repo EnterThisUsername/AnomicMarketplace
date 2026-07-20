@@ -1,0 +1,13 @@
+{
+  "id": "patriotic-pickup",
+  "name": "Patriotic Pickup",
+  "image": "https://placehold.co/600x400/1e1e1e/0000ff?text=Patriotic+Pickup",
+  "value": 1025000,
+  "demand": "Moderate",
+  "prediction": "Stable",
+  "event": "Independence Day 2023",
+  "category": "Car",
+  "rarity": "Very Rare",
+  "description": "A flashy patriotic truck from 2023.",
+  "lastUpdated": "???"
+}

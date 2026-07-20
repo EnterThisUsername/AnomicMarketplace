@@ -1,0 +1,13 @@
+{
+  "id": "og-sprayer",
+  "name": "OG Sprayer",
+  "image": "https://placehold.co/600x400/1e1e1e/ff4500?text=OG+Sprayer",
+  "value": 5000000,
+  "demand": "Low",
+  "prediction": "Stable",
+  "event": "Off-Sale Items",
+  "category": "Item",
+  "rarity": "Legendary",
+  "description": "An incredibly rare off-sale OG item.",
+  "lastUpdated": "???"
+}

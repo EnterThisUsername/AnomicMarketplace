@@ -1,0 +1,13 @@
+{
+  "id": "candy-cane",
+  "name": "Candy Cane",
+  "image": "https://placehold.co/600x400/1e1e1e/ff4500?text=Candy+Cane",
+  "value": 50000,
+  "demand": "Low",
+  "prediction": "Stable",
+  "event": "Winter 2025",
+  "category": "Item",
+  "rarity": "Common",
+  "description": "A sweet treat from the Winter 2025 event.",
+  "lastUpdated": "???"
+}

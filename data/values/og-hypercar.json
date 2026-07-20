@@ -1,0 +1,13 @@
+{
+  "id": "og-hypercar",
+  "name": "OG Hypercar",
+  "image": "https://placehold.co/600x400/1e1e1e/ff4500?text=OG+Hypercar",
+  "value": 595000,
+  "demand": "Moderate",
+  "prediction": "Stable",
+  "event": "April Fools 2025",
+  "category": "Car",
+  "rarity": "Rare",
+  "description": "An absurdly fast joke car from April Fools 2025.",
+  "lastUpdated": "???"
+}

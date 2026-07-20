@@ -1,0 +1,13 @@
+{
+  "id": "hearse",
+  "name": "Hearse",
+  "image": "https://placehold.co/600x400/1e1e1e/ff0000?text=Hearse",
+  "value": 905000,
+  "demand": "Low",
+  "prediction": "Stable",
+  "event": "Halloween 2023",
+  "category": "Car",
+  "rarity": "Rare",
+  "description": "A classic Halloween vehicle.",
+  "lastUpdated": "???"
+}

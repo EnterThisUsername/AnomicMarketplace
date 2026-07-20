@@ -1,0 +1,13 @@
+{
+  "id": "grand-plan-sedan",
+  "name": "Grand Plan Sedan",
+  "image": "https://placehold.co/600x400/1e1e1e/ff4500?text=Grand+Plan+Sedan",
+  "value": 1850000,
+  "demand": "Low",
+  "prediction": "Stable",
+  "event": "New Year 2024",
+  "category": "Car",
+  "rarity": "Very Rare",
+  "description": "A luxurious sedan to start the year right.",
+  "lastUpdated": "???"
+}

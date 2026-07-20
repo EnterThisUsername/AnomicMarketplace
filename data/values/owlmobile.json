@@ -1,0 +1,13 @@
+{
+  "id": "owlmobile",
+  "name": "Owlmobile",
+  "image": "https://placehold.co/600x400/1e1e1e/ff8c00?text=Owlmobile",
+  "value": 60000,
+  "demand": "Moderate",
+  "prediction": "Stable",
+  "event": "Halloween 2025",
+  "category": "Car",
+  "rarity": "Common",
+  "description": "A nocturnal ride from Halloween 2025.",
+  "lastUpdated": "???"
+}

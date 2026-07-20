@@ -1,0 +1,13 @@
+{
+  "id": "freedom-firework-kit",
+  "name": "Freedom Firework Kit",
+  "image": "https://placehold.co/600x400/1e1e1e/0080ff?text=Freedom+Firework",
+  "value": 320000,
+  "demand": "Low",
+  "prediction": "Stable",
+  "event": "Independence Day 2024",
+  "category": "Item",
+  "rarity": "Uncommon",
+  "description": "Celebrate freedom with a bang.",
+  "lastUpdated": "???"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "the-general",
+  "name": "The General",
+  "image": "https://placehold.co/600x400/1e1e1e/0080ff?text=The+General",
+  "value": 295000,
+  "demand": "Moderate",
+  "prediction": "Stable",
+  "event": "Independence Day 2024",
+  "category": "Car",
+  "rarity": "Uncommon",
+  "description": "A patriotic and powerful car.",
+  "lastUpdated": "???"
+}

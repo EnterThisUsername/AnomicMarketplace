@@ -1,0 +1,13 @@
+{
+  "id": "spirit-speedster",
+  "name": "Spirit Speedster",
+  "image": "https://placehold.co/600x400/1e1e1e/ff8c00?text=Spirit+Speedster",
+  "value": 605000,
+  "demand": "Moderate",
+  "prediction": "Stable",
+  "event": "Halloween 2024",
+  "category": "Car",
+  "rarity": "Rare",
+  "description": "A fast and phantom-like speedster.",
+  "lastUpdated": "???"
+}

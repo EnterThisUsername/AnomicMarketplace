@@ -1,0 +1,13 @@
+{
+  "id": "christmas-hat",
+  "name": "Christmas Hat",
+  "image": "https://placehold.co/600x400/1e1e1e/0080ff?text=Christmas+Hat",
+  "value": 1050000,
+  "demand": "Low",
+  "prediction": "Stable",
+  "event": "Christmas/Winter 2023",
+  "category": "Item",
+  "rarity": "Very Rare",
+  "description": "A festive cosmetic from Christmas 2023.",
+  "lastUpdated": "???"
+}

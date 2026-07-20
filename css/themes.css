@@ -1,0 +1,15 @@
+/* 
+  Theme styles are handled via variables in variables.css.
+  This file exists to handle specific overrides that are difficult 
+  to express purely through variables, such as background image overlays
+  or complex component-level theme switching if needed in the future.
+*/
+
+[data-theme="dark"] body {
+  background-image: radial-gradient(circle at 50% 0%, rgba(255, 69, 0, 0.05) 0%, transparent 50%);
+  background-attachment: fixed;
+}
+
+[data-theme="light"] body {
+  background-image: none;
+}

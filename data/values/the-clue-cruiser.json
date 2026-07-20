@@ -1,0 +1,13 @@
+{
+  "id": "the-clue-cruiser",
+  "name": "The Clue Cruiser",
+  "image": "https://placehold.co/600x400/1e1e1e/ff8c00?text=Clue+Cruiser",
+  "value": 60000,
+  "demand": "Moderate",
+  "prediction": "Stable",
+  "event": "Halloween 2025",
+  "category": "Car",
+  "rarity": "Common",
+  "description": "Solve mysteries in this Halloween 2025 vehicle.",
+  "lastUpdated": "???"
+}

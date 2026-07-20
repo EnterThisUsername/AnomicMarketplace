@@ -1,0 +1,13 @@
+{
+  "id": "snowplow-humvee",
+  "name": "Snowplow Humvee",
+  "image": "https://placehold.co/600x400/1e1e1e/0080ff?text=Snowplow+Humvee",
+  "value": 150000,
+  "demand": "Moderate",
+  "prediction": "Stable",
+  "event": "Christmas/Winter 2024",
+  "category": "Car",
+  "rarity": "Uncommon",
+  "description": "Clear the roads with this heavy-duty winter vehicle.",
+  "lastUpdated": "???"
+}

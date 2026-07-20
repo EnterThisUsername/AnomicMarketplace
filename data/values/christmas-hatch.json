@@ -1,0 +1,13 @@
+{
+  "id": "christmas-hatch",
+  "name": "Christmas Hatch",
+  "image": "https://placehold.co/600x400/1e1e1e/ffffff?text=Christmas+Hatch",
+  "value": 1650000,
+  "demand": "Moderate",
+  "prediction": "Stable",
+  "event": "Christmas/Winter 2022",
+  "category": "Car",
+  "rarity": "Very Rare",
+  "description": "A compact festive car from Christmas 2022.",
+  "lastUpdated": "???"
+}

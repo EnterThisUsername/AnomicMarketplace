@@ -1,0 +1,13 @@
+{
+  "id": "troublemaker",
+  "name": "Troublemaker",
+  "image": "https://placehold.co/600x400/1e1e1e/00ff00?text=Troublemaker",
+  "value": 740000,
+  "demand": "Very High",
+  "prediction": "Unstable",
+  "event": "St. Patrick's Day 2024",
+  "category": "Car",
+  "rarity": "Legendary",
+  "description": "A highly unstable and sought-after prank vehicle.",
+  "lastUpdated": "2026-07-18"
+}

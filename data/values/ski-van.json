@@ -1,0 +1,13 @@
+{
+  "id": "ski-van",
+  "name": "Ski Van",
+  "image": "https://placehold.co/600x400/1e1e1e/ffffff?text=Ski+Van",
+  "value": 1650000,
+  "demand": "Moderate",
+  "prediction": "Stable",
+  "event": "Christmas/Winter 2022",
+  "category": "Car",
+  "rarity": "Very Rare",
+  "description": "A vintage winter vehicle from 2022.",
+  "lastUpdated": "???"
+}

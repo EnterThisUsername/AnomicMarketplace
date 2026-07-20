@@ -1,0 +1,13 @@
+{
+  "id": "blood-moon-vhs-tape",
+  "name": "Blood Moon VHS Tape",
+  "image": "https://placehold.co/600x400/1e1e1e/ff0000?text=Blood+Moon+VHS",
+  "value": 2150000,
+  "demand": "Low",
+  "prediction": "Stable",
+  "event": "Halloween 2023",
+  "category": "Item",
+  "rarity": "Legendary",
+  "description": "A rare commemorative tape from Halloween 2023.",
+  "lastUpdated": "???"
+}

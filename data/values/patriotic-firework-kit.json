@@ -1,0 +1,13 @@
+{
+  "id": "patriotic-firework-kit",
+  "name": "Patriotic Firework Kit",
+  "image": "https://placehold.co/600x400/1e1e1e/0000ff?text=Patriotic+Firework",
+  "value": 900000,
+  "demand": "Low",
+  "prediction": "Stable",
+  "event": "Independence Day 2023",
+  "category": "Item",
+  "rarity": "Rare",
+  "description": "Light up the sky with this older firework kit.",
+  "lastUpdated": "???"
+}

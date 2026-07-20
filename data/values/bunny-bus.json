@@ -1,0 +1,13 @@
+{
+  "id": "bunny-bus",
+  "name": "Bunny Bus",
+  "image": "https://placehold.co/600x400/1e1e1e/ff69b4?text=Bunny+Bus",
+  "value": 1675000,
+  "demand": "Low",
+  "prediction": "Stable",
+  "event": "Easter 2023",
+  "category": "Car",
+  "rarity": "Very Rare",
+  "description": "A festive bus from Easter 2023.",
+  "lastUpdated": "???"
+}

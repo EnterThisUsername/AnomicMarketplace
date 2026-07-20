@@ -1,0 +1,13 @@
+{
+  "id": "lucky-tophat",
+  "name": "Lucky Tophat",
+  "image": "https://placehold.co/600x400/1e1e1e/00ff00?text=Lucky+Tophat",
+  "value": 455000,
+  "demand": "Low",
+  "prediction": "Stable",
+  "event": "St. Patrick's Day 2024",
+  "category": "Item",
+  "rarity": "Uncommon",
+  "description": "A charming and lucky accessory.",
+  "lastUpdated": "???"
+}

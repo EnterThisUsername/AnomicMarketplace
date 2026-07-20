@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AMP | Marketplace Values</title>
+  <meta name="description" content="Browse and search Anomic Marketplace values. Find the exact value of any Roblox Anomic item.">
+  
+  <meta property="og:title" content="Anomic Marketplace Values">
+  <meta property="og:description" content="Browse and search Anomic Marketplace values. Find the exact value of any Roblox Anomic item.">
+  <meta property="og:type" content="website">
+  
+  <link rel="canonical" href="/values.html">
+  <link rel="stylesheet" href="/css/styles.css">
+  <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js" defer></script>
+  <script src="https://cdn.tailwindcss.com" defer></script>
+</head>
+<body data-page="values">
+  <header class="navbar" id="main-nav">
+    <div class="container nav-container">
+      <a href="/" class="nav-logo">Anomic<span>Marketplace</span></a>
+      <nav class="nav-links" aria-label="Main navigation">
+        <a href="/" class="nav-link">Home</a>
+        <a href="/values.html" class="nav-link active">Marketplace Values</a>
+        <a href="/vhs.html" class="nav-link">VHS Bulk IDs</a>
+        <a href="/discords.html" class="nav-link">Official Discords</a>
+      </nav>
+      <div class="nav-actions">
+        <button id="theme-toggle" class="btn btn-secondary btn-icon" aria-label="Toggle theme"></button>
+        <button id="mobile-menu-toggle" class="btn btn-secondary btn-icon" aria-label="Open menu" aria-expanded="false">
+          <i data-lucide="menu"></i>
+        </button>
+      </div>
+    </div>
+    <nav class="mobile-nav" id="mobile-nav" aria-label="Mobile navigation">
+      <a href="/" class="nav-link">Home</a>
+      <a href="/values.html" class="nav-link active">Marketplace Values</a>
+      <a href="/vhs.html" class="nav-link">VHS Bulk IDs</a>
+      <a href="/discords.html" class="nav-link">Official Discords</a>
+    </nav>
+  </header>
+
+  <main class="main-content">
+    <div class="container">
+      <div class="flex items-center justify-between mb-8">
+        <div>
+          <h1>Marketplace Values</h1>
+          <p class="text-muted">Find accurate values for all Anomic items.</p>
+        </div>
+        <div class="flex gap-2">
+          <button id="layout-toggle" class="btn btn-secondary btn-icon" aria-label="Toggle layout"></button>
+        </div>
+      </div>
+
+      <div class="search-input-wrapper">
+        <i data-lucide="search" class="search-icon"></i>
+        <input type="search" id="page-search" class="form-input search-input" placeholder="Search items, events, categories..." aria-label="Search marketplace">
+        <span class="shortcut-hint">Ctrl + K</span>
+      </div>
+
+      <div class="grid mt-4" style="grid-template-columns: 250px 1fr; gap: 24px;">
+        <aside class="filter-sidebar">
+          <div class="flex justify-between items-center mb-4">
+            <h2 style="font-size: 1.25rem; margin: 0;">Filters</h2>
+            <button id="clear-filters" class="btn btn-secondary text-sm" style="padding: 4px 8px;">Clear All</button>
+          </div>
+          
+          <div class="filter-group">
+            <h4>Value Range</h4>
+            <div class="flex gap-2">
+              <input type="number" id="filter-min-value" class="form-input" placeholder="Min" min="0">
+              <input type="number" id="filter-max-value" class="form-input" placeholder="Max" min="0">
+            </div>
+          </div>
+
+          <div class="filter-group">
+            <h4>Category</h4>
+            <div id="filter-categories"></div>
+          </div>
+          <div class="filter-group">
+            <h4>Event</h4>
+            <div id="filter-events"></div>
+          </div>
+          <div class="filter-group">
+            <h4>Demand</h4>
+            <div id="filter-demands"></div>
+          </div>
+          <div class="filter-group">
+            <h4>Prediction</h4>
+            <div id="filter-predictions"></div>
+          </div>
+          <div class="filter-group">
+            <h4>Rarity</h4>
+            <div id="filter-rarities"></div>
+          </div>
+        </aside>
+
+        <section>
+          <div class="flex justify-between items-center mb-4">
+            <span id="results-count" class="text-muted">Loading...</span>
+            <select id="sort-dropdown" class="form-select" style="width: auto;">
+              <option value="updated-desc">Newest Updated</option>
+              <option value="value-desc">Highest Value</option>
+              <option value="value-asc">Lowest Value</option>
+              <option value="name-asc">Name A-Z</option>
+              <option value="name-desc">Name Z-A</option>
+              <option value="demand-desc">Highest Demand</option>
+              <option value="demand-asc">Lowest Demand</option>
+            </select>
+          </div>
+          <div id="values-grid" class="values-grid"></div>
+        </section>
+      </div>
+    </div>
+  </main>
+
+  <button class="back-to-top" id="back-to-top" aria-hidden="true">
+    <i data-lucide="arrow-up"></i>
+  </button>
+
+  <script type="module" src="/js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+{
+  "id": "blood-moon-roadster",
+  "name": "Blood Moon Roadster",
+  "image": "https://placehold.co/600x400/1e1e1e/ff0000?text=Blood+Moon+Roadster",
+  "value": 260000,
+  "demand": "Low",
+  "prediction": "Stable",
+  "event": "Halloween 2023",
+  "category": "Car",
+  "rarity": "Uncommon",
+  "description": "A spooky roadster that rides under the blood moon.",
+  "lastUpdated": "???"
+}
