@@ -44,7 +44,7 @@ async function initHomePage() {
   if (totalItemsEl) {
     try {
       // We don't need to load the whole dataset just for a count, but for simplicity in a static site:
-      const res = await fetch('/data/values/manifest.json');
+      const res = await fetch('./data/values/manifest.json');
       const manifest = await res.json();
       totalItemsEl.textContent = manifest.items.length;
     } catch (e) {
